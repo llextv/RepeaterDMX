@@ -67,5 +67,6 @@ This software is tested to transfer on a ESP-WROOM-32 at home but I cannot test 
 
 I also calculate frame and storage for show:
 44FPS is the better value between sd storage and fiability with 22.7 kB/s
+![alt text](Pictures/soft.png)
 
 **Total time spent: 1 hours**

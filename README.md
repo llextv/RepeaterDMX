@@ -5,6 +5,10 @@ A DIY DMX recorder and repeater designed to record and replay one complete DMX u
 This project provides a compact, low-cost and reproducible solution capable of recording DMX lighting shows to a microSD card and replaying them through a DMX output.
 
 The system also includes LTC timecode input, allowing recorded lighting shows to be synchronized with an external show-control or audio system.
+
+## Why am I doing this?
+First of all, I would like to ensure show redundancy in the event of a PC crash; we would record the show on this device (1 universe) and be able to replay it as a backup measure. The primary goal is to guarantee show redundancy, while the secondary objective is to provide redundancy and prototyping capabilities for a larger upcoming project.
+
 ---
 
 # Overview

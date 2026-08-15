@@ -70,3 +70,13 @@ I also calculate frame and storage for show:
 ![alt text](Pictures/soft.png)
 
 **Total time spent: 1 hours**
+
+# Project Response 1
+I have received this message: 
+hey, can you add a little section in the readme about why you chose to make it? also you need to format your BOM.csv properly
+
+So two problems on my project: 
+-> BOM csv without $ currency (resolved)
+-> README file with mention why chose this ? (resolved)
+
+**Total time spent: 0.25 hours**

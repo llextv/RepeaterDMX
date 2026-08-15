@@ -78,5 +78,6 @@ hey, can you add a little section in the readme about why you chose to make it? 
 So two problems on my project: 
 -> BOM csv without $ currency (resolved)
 -> README file with mention why chose this ? (resolved)
+![alt text](Pictures/screen.png)
 
 **Total time spent: 0.25 hours**

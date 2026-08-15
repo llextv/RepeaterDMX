@@ -67,16 +67,17 @@ This is firmware:
 
 
 # BOM:
-| Categorie | Article | Quantite | Prix_Unitaire_EUR | Prix_Total_EUR | Notes | URL |
-|---|---|---:|---:|---:|---|---|
-| Controls | ESP32-S3 Devkit | 1 | 5.99 | 5.99 | | [AliExpress](https://fr.aliexpress.com/item/1005009330328373.html) |
-| Communication | MAX485 Module RS-485 | 2 | 1.295 | 2.59 | | [AliExpress](https://fr.aliexpress.com/item/1005005737922222.html) |
-| Connectique | XLR 3-Pin Panel Mount Connector | 3 | 0.247 | 0.74 | | [AliExpress](https://fr.aliexpress.com/item/32994485419.html) |
-| Storage | Micro SD Module | 1 | 0.83 | 0.83 | | [AliExpress](https://fr.aliexpress.com/item/1005009224403161.html) |
-| Storage | 32GB Micro SD Card | 1 | 4.89 | 4.89 | | [AliExpress](https://fr.aliexpress.com/item/1005012294704811.html) |
-| Connectique | Panel Mount USB-C Connector | 1 | 1.79 | 1.79 | | [AliExpress](https://fr.aliexpress.com/item/1005009101248402.html) |
-| Prototype | Wire | 1 | 0.88 | 0.88 | | [AliExpress](https://fr.aliexpress.com/item/1005001698292417.html) |
-| LTC | LM393 Comparator Module | 1 | 1.24 | 1.24 | | [AliExpress](https://fr.aliexpress.com/item/1005012824868572.html) |
-| LTC | 600:600 Ohm Audio Isolation Transformer | 10 | 0.429 | 4.29 | 10 pieces | [AliExpress](https://fr.aliexpress.com/item/1005006340217108.html) |
-| Prototype | PCB Board | 1 | 3.49 | 3.49 | | [AliExpress](https://fr.aliexpress.com/item/1005007977006793.html) |
-| **TOTAL** | | | | **26.73** | | |
+| Categorie     | Article                                 | Quantite | Prix_Unitaire_EUR | Prix_Unitaire_USD | Prix_Total_EUR | Prix_Total_USD | Notes     | URL                                                                |
+| ------------- | --------------------------------------- | -------: | ----------------: | ----------------: | -------------: | -------------: | --------- | ------------------------------------------------------------------ |
+| Controls      | ESP32-S3 Devkit                         |        1 |              5.99 |              6.97 |           5.99 |           6.97 |           | [AliExpress](https://fr.aliexpress.com/item/1005009330328373.html) |
+| Communication | MAX485 Module RS-485                    |        2 |             1.295 |              1.51 |           2.59 |           3.01 |           | [AliExpress](https://fr.aliexpress.com/item/1005005737922222.html) |
+| Connectique   | XLR 3-Pin Panel Mount Connector         |        3 |             0.247 |              0.29 |           0.74 |           0.86 |           | [AliExpress](https://fr.aliexpress.com/item/32994485419.html)      |
+| Storage       | Micro SD Module                         |        1 |              0.83 |              0.97 |           0.83 |           0.97 |           | [AliExpress](https://fr.aliexpress.com/item/1005009224403161.html) |
+| Storage       | 32GB Micro SD Card                      |        1 |              4.89 |              5.69 |           4.89 |           5.69 |           | [AliExpress](https://fr.aliexpress.com/item/1005012294704811.html) |
+| Connectique   | Panel Mount USB-C Connector             |        1 |              1.79 |              2.08 |           1.79 |           2.08 |           | [AliExpress](https://fr.aliexpress.com/item/1005009101248402.html) |
+| Prototype     | Wire                                    |        1 |              0.88 |              1.02 |           0.88 |           1.02 |           | [AliExpress](https://fr.aliexpress.com/item/1005001698292417.html) |
+| LTC           | LM393 Comparator Module                 |        1 |              1.24 |              1.44 |           1.24 |           1.44 |           | [AliExpress](https://fr.aliexpress.com/item/1005012824868572.html) |
+| LTC           | 600:600 Ohm Audio Isolation Transformer |       10 |             0.429 |              0.50 |           4.29 |           4.99 | 10 pieces | [AliExpress](https://fr.aliexpress.com/item/1005006340217108.html) |
+| Prototype     | PCB Board                               |        1 |              3.49 |              4.06 |           3.49 |           4.06 |           | [AliExpress](https://fr.aliexpress.com/item/1005007977006793.html) |
+| **TOTAL**     |                                         |          |                   |                   |      **26.73** |      **31.08** |           |                                                                    |
+

@@ -71,8 +71,21 @@ I also calculate frame and storage for show:
 
 **Total time spent: 1 hours**
 
-# New response
+# Project Response 1
+I have received this message: 
+hey, can you add a little section in the readme about why you chose to make it? also you need to format your BOM.csv properly
+
+So two problems on my project: 
+-> BOM csv without $ currency (resolved)
+-> README file with mention why chose this ? (resolved)
+![alt text](Pictures/screen.png)
+
+**Total time spent: 0.25 hours**
+
+# Project Response 2
 I received: Hey, cool project, but you need pictures of your wiring diagram/schematic in your readme
 
 Thanks for your time !
 I add it: ![alt text](Pictures/image.png)
+
+**Total time spent: 0.1 hours**

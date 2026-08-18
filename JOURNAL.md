@@ -70,3 +70,9 @@ I also calculate frame and storage for show:
 ![alt text](Pictures/soft.png)
 
 **Total time spent: 1 hours**
+
+# New response
+I received: Hey, cool project, but you need pictures of your wiring diagram/schematic in your readme
+
+Thanks for your time !
+I add it: ![alt text](Pictures/image.png)

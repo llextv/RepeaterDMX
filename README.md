@@ -43,6 +43,7 @@ The enclosure was designed to be fully 3D printable, allowing easy reproduction 
 ![alt text](Pictures/image-3.png)
 
 ## CAD Files
+![alt text](Pictures/image-1.png)
 [text](cad/AssemblyBoxRepeater.step)
 [text](cad/BoxRepeater.step)
 [text](cad/TopBoxRepeater.step)
@@ -53,12 +54,14 @@ The enclosure was designed to be fully 3D printable, allowing easy reproduction 
 # Electronic Design
 
 ## Schematic
+![alt text](Pictures/image.png)
 [text](Scheme/RepeaterDMX.kicad_sch)
 
 ---
 
 # Firmware
 This is firmware:
+![alt text](Pictures/soft.png)
 [text](Software/repeaterDMX/repeaterDMX.ino)
 
 

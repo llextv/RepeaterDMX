@@ -89,3 +89,11 @@ Thanks for your time !
 I add it: ![alt text](Pictures/image.png)
 
 **Total time spent: 0.1 hours**
+
+# Project Response 3
+I received: Hey, cool project, but you need a full assembly of your cad with all the electronics and pictures of it in your repo
+
+Thanks for your time
+It's updated !
+![alt text](image.png)
+**Total time spent: 0.1 hours**

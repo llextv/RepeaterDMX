@@ -103,4 +103,5 @@ I received:
 Hi, can you give more detail into what DMX is and how your project works (ex. like how is signal is recorded and stored).
 
 So I update my README
+![alt text](Pictures/image-12.png)
 **Total time spent: 0.2 hours**

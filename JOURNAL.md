@@ -97,3 +97,10 @@ Thanks for your time
 It's updated !
 ![alt text](image.png)
 **Total time spent: 0.1 hours**
+
+# Project Response 4
+I received:
+Hi, can you give more detail into what DMX is and how your project works (ex. like how is signal is recorded and stored).
+
+So I update my README
+**Total time spent: 0.2 hours**

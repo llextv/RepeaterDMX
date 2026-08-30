@@ -112,4 +112,6 @@ Heyaaa!! Nice project, But rn you are missing the PCB file for your project. if 
 
 Just for your information I will use dev card PCB put into the box so this sample card is in AssemblyBoxRepeater, all is mounted on this card so no components is in case not fixed :)
 
+![alt text](p5.png)
+
 **Total time spent: 0.1 hours**

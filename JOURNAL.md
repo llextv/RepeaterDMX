@@ -105,3 +105,11 @@ Hi, can you give more detail into what DMX is and how your project works (ex. li
 So I update my README
 ![alt text](Pictures/image-12.png)
 **Total time spent: 0.2 hours**
+
+# Project Response Pt 5
+I received: 
+Heyaaa!! Nice project, But rn you are missing the PCB file for your project. if not using PCB, please add all the electronics in your assembly
+
+Just for your information I will use dev card PCB put into the box so this sample card is in AssemblyBoxRepeater, all is mounted on this card so no components is in case not fixed :)
+
+**Total time spent: 0.1 hours**

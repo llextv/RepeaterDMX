@@ -115,3 +115,11 @@ Just for your information I will use dev card PCB put into the box so this sampl
 ![alt text](Pictures/p5.png)
 
 **Total time spent: 0.1 hours**
+
+# Project Response Pt 6
+I received: please dont use ai for the repo hand write it
+
+I update the project (README.md) because it's AI writted but now it's resolved:
+![alt text](Pictures\rm.png)
+
+**Total time spent: 0.15 hours**

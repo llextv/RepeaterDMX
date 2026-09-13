@@ -123,3 +123,11 @@ I update the project (README.md) because it's AI writted but now it's resolved:
 ![alt text](Pictures\rm.png)
 
 **Total time spent: 0.15 hours**
+
+# Project Response Pt 7
+I received: Sick idea :D Could you please model in all your electronics into your case, it's a bit hard to see how everything will come together!
+So I update README & Fusion assembly:
+
+![alt text](Pictures/ass.png)
+
+**Total time spent: 0.15 hours**
